@@ -1,2 +1,5 @@
-# truck-race
-Truck Race web build (built files only; play in Safari, Add to Home Screen)
+﻿# Truck Race (web build)
+
+Play: https://benjaminlittle.github.io/truck-race/ (Safari on iPhone/iPad: Share, then Add to Home Screen)
+
+Built files only. Version 0.3.38.
