@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794833042|2319863';
+const CACHE_VERSION = '1794853685|2405899';
 /** @type {string} */
 const CACHE_PREFIX = 'Truck Race-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
