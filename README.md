@@ -2,4 +2,4 @@
 
 Play: https://benjaminlittle.github.io/truck-race/ (Safari on iPhone/iPad: Share, then Add to Home Screen)
 
-Built files only. Version 0.3.102 (built 2026-11-27 18:40).
+Built files only. Version 0.3.103 (built 2026-11-28 01:12).
